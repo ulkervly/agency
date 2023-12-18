@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Agency.Data/1.0.0": {
+        "dependencies": {
+          "Agency.Core": "1.0.0"
+        },
+        "runtime": {
+          "Agency.Data.dll": {}
+        }
+      },
+      "Agency.Core/1.0.0": {
+        "runtime": {
+          "Agency.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agency.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Agency.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

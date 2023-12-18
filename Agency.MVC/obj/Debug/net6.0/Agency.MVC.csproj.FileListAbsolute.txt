@@ -1,0 +1,8 @@
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Agency\Agency.MVC\obj\Debug\net6.0\Agency.MVC.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Agency\Agency.MVC\obj\Debug\net6.0\Agency.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Agency\Agency.MVC\obj\Debug\net6.0\Agency.MVC.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Agency\Agency.MVC\obj\Debug\net6.0\Agency.MVC.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Agency\Agency.MVC\obj\Debug\net6.0\Agency.MVC.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Agency\Agency.MVC\obj\Debug\net6.0\Agency.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Agency\Agency.MVC\obj\Debug\net6.0\Agency.MVC.RazorAssemblyInfo.cache
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Agency\Agency.MVC\obj\Debug\net6.0\Agency.MVC.RazorAssemblyInfo.cs

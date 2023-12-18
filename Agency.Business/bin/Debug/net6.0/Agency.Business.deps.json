@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Agency.Business/1.0.0": {
+        "dependencies": {
+          "Agency.Data": "1.0.0"
+        },
+        "runtime": {
+          "Agency.Business.dll": {}
+        }
+      },
+      "Agency.Core/1.0.0": {
+        "runtime": {
+          "Agency.Core.dll": {}
+        }
+      },
+      "Agency.Data/1.0.0": {
+        "dependencies": {
+          "Agency.Core": "1.0.0"
+        },
+        "runtime": {
+          "Agency.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agency.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Agency.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Agency.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
